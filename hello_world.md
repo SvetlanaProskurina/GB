@@ -1,8 +1,13 @@
+# First file version control
+
 Hello world!
 
+## Text insert
 *Coursive*
 
 **Half_tast**
+
+## Spiski
 
 * element1
 * element2
@@ -10,6 +15,3 @@ Hello world!
 
 1. element
 2. element2
-
-
-Begin our meeting
